@@ -31,6 +31,25 @@ h1{
 }
 .my-mission{
     text-align: center;
+    
+}
+.mission-2022 img{
+width: 50%;
+}
+
+.box-make{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+#mission-1{
+    background-color:#4f9da61a ;
+}
+#vission-1{
+    background-color: #ff59591a;
+}
+#Goals-1{
+    background-color:#FFF4D6 ;
 }
 .build-corona{
     text-align: center;
@@ -40,6 +59,7 @@ footer{
     text-align: center;
     color: white;
     background-color: black;
+    padding: 15px;
 }
 #red-color{
     color: brown;
